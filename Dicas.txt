@@ -1,0 +1,10 @@
+Dicas de processos no DELPHI
+
+Dica 1: Salvar o Texto SQL de um componente DataSet ou TIBQuery.
+  Passo 1: Coloque o cursor sobre o componente desejado (Em DEBUG)
+  Passo 2: Acione Ctrl + F7
+  Passo 3: Na janela de Watch List, localize a Expression:
+  Passo 4: Digite o seguinte comando:
+    qLocal.SQL.SaveToFile('c:\SQL\sqlHistorico.txt') (Enter)
+  
+  Obs: Se tudo der certo ira ser salvo no diretorio descrito um txt com o SQL criado.
