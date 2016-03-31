@@ -1,0 +1,23 @@
+procedure AddLogTXT(Texto: string);
+var
+  AArquivo: TStringList;
+  ADiretorio, ADataHora: string;
+
+begin
+  AArquivo := TStringList.Create;
+  try
+    ADiretorio := ExtractFilePath(ParamStr(0)) + 'LogImportarDoc.txt';
+    ADataHora := FormatDateTime('dd/mm/yyyy hh:mm:ss', Now());
+
+    if FileExists(ADiretorio) then
+      AArquivo.LoadFromFile(ADiretorio);
+
+    AArquivo.Add(ADataHora + ' * ' + Texto);
+
+    AArquivo.SaveToFile(ADiretorio);
+
+  finally
+    FreeAndNil(AArquivo);
+  end;
+
+end;
