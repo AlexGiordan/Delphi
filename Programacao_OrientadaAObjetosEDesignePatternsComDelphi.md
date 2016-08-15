@@ -32,6 +32,17 @@ POO, Padrões de projeto e refatoração
  > model view
  > Metricas
  > auditorias
+ > O que é generic? Variar o tipo.
+ > Set Visible
+ > RTTI
+ > PACKAGES
+ > CREAT PARAMS
+ > CREAT BY PATTERNS
+ > CC.Embarcadero.com (Nome)
+ > hierarquia da vcl
+ > JSON
+ > create by patener
+ 
  
  
  
