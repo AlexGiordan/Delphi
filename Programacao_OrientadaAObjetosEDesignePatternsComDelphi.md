@@ -20,4 +20,10 @@ POO, Padrões de projeto e refatoração
  > Obsesção primitiva
  > Classes com no maximo 500 linhas
  > metodos com no maximo 20 linhas
+ > momento de refatorar, corrigir bags, implementar novos requisitos
+ > SOLID Pricipio da responsabilidade unica
+ > Uma classe deve ser aberta para expanção e fechada para modificação
+ > Refatoração é continua
+ > Extrat Method
+ 
  
