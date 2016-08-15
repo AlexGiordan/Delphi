@@ -25,5 +25,13 @@ POO, Padrões de projeto e refatoração
  > Uma classe deve ser aberta para expanção e fechada para modificação
  > Refatoração é continua
  > Extrat Method
+ > Delegação 
+ 
+ >>> sourcemaking.com   IMPORTANTE
+ 
+ > model view
+ > Metricas
+ > auditorias
+ 
  
  
