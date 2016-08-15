@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/08/15 11:09:31.642,=C:\Users\Unoesc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/15 11:10:16.408,C:\Users\Unoesc\Desktop\uFrmPrinciapal.pas=C:\Users\Unoesc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/15 11:10:16.408,C:\Users\Unoesc\Desktop\uFrmPrinciapal.dfm=C:\Users\Unoesc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/08/15 11:10:26.619,C:\Users\Unoesc\Desktop\SistemaNotificacao.dproj=C:\Users\Unoesc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/08/15 11:39:06.231,=C:\Users\Unoesc\Desktop\Unit1.pas</Transaction>
+    <Transaction>2016/08/15 11:40:35.340,C:\Users\Unoesc\Desktop\UNOESC.Notificacao.pas=C:\Users\Unoesc\Desktop\Unit1.pas</Transaction>
+    <Transaction>2016/08/15 14:15:28.191,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\UNOESC\Notificacao\default.txvpck</Transaction>
+    <Transaction>2016/08/15 14:15:28.211,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\uFrmPrinciapal\default.txvpck</Transaction>
+    <Transaction>2016/08/15 14:15:28.238,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\uFrmPrinciapal\default.txaPackage</Transaction>
+    <Transaction>2016/08/15 14:15:28.247,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\UNOESC\default.txaPackage</Transaction>
+    <Transaction>2016/08/15 14:15:28.257,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\UNOESC\Notificacao\default.txaPackage</Transaction>
+    <Transaction>2016/08/15 14:15:28.268,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\default.txaPackage</Transaction>
+    <Transaction>2016/08/15 14:15:28.282,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\SistemaNotificacao\default.txaPackage</Transaction>
+    <Transaction>2016/08/15 14:15:28.351,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\SistemaNotificacao\default.txvpck</Transaction>
+    <Transaction>2016/08/15 14:17:14.739,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\default.txvpck</Transaction>
+    <Transaction>2016/08/15 14:17:27.599,=C:\Users\Unoesc\Desktop\ModelSupport_SistemaNotificacao\UNOESC\default.txvpck</Transaction>
+  </Transactions>
+</BorlandProject>
