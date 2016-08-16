@@ -42,7 +42,29 @@ POO, Padrões de projeto e refatoração
  > hierarquia da vcl
  > JSON
  > create by patener
+ > Livros
+ > packages
+ > POO
+ > dp
+ > pacote de designer time
+ > pacote somente de designer
  
+ {{{
+ vantagem não modifica o fonte
+  passo 1. Salva o grupo de projeto
+  
+ 
+ 
+ }}}
+ 
+ > Carga dinamica ruin ,
+ > Carga estatica ruin memoria,
+ > biografia 
+ > POO
+ > TDD RGR
+ > Escrever os testes antes
+ > CTRL + Shift + T
+ > www.qualister.com.br
  
  
  
