@@ -66,6 +66,9 @@ POO, Padrões de projeto e refatoração
  > CTRL + Shift + T
  > www.qualister.com.br
  > codeSide IMPORTANTE
- 
+ > strict private
+ > protected
+ > strict protected
+ > programar para abstração
  
  
