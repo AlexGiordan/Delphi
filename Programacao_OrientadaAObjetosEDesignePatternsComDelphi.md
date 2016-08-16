@@ -65,6 +65,7 @@ POO, Padrões de projeto e refatoração
  > Escrever os testes antes
  > CTRL + Shift + T
  > www.qualister.com.br
+ > codeSide IMPORTANTE
  
  
  
