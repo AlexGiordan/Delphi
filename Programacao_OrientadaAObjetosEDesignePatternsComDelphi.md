@@ -71,4 +71,7 @@ POO, Padrões de projeto e refatoração
  > strict protected
  > programar para abstração
  
+ > https://www.youtube.com/watch?v=-JFLQcPIElo&list=PL-diSX68u5h81yHqhjvM97LT-cPz2oid7
+
+ 
  
