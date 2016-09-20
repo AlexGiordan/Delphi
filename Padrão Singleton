@@ -1,1 +1,21 @@
 
+<< Singleton >>
+
+O que é?
+  Singleton é uma classe que deve ter apenas uma instância.
+  
+Por exemplo:  
+Em uma aplicação onde temos varias variaveis globais, ao inves de ter todas em uma class uninca podemos usar Singleton para este problema:
+
+// assinatura
+Type 
+  TCFOPPadraoDocumentoFiscal = class
+    class var CFOPVendaInterna: string;
+    class var CFOPVentaInterEstadual: string;
+  end;
+  
+// Escrita
+  TCFOPPadraoDocumentoFiscal.CFOPVendaInterna := '5102';
+  
+// Leitura 
+  edtCFOPOperacao.value := TCFOPPadraoDocumentoFiscal.CFOPVendaInterna;
