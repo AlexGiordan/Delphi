@@ -1,0 +1,42 @@
+* 20/09/2016 
+- Buscar sempre identificar o proprietario Owner .owner. () ou .parent. ()
+- Tpbject -> Rpersistent -> Tcomponent -> Tcontrol
+- No Tcomponent é feito o gerenciamento de memoria.
+- No Tcomponent é o componente de dfm -> Tgraficcontrol ou Twincontrol
+- Buscar semprer dar uses na implementação evidar dar uses na class
+- Quando criado um form retirar a variavel global criada automaticamente do form.
+- Quando a metodo .creat()
+- nil sem propeietario
+- self form principal é o proprietario
+- application dessa forma a aplicação detroi o form
+- Nunca usar o Destroy() diretamente
+- Usar Free somente para variaveis locais
+- Dar preferencia para FreeAndNil
+- Quando for um formulario pode ser usado o frm.realease();
+- class de negocios não tem owner
+- Toda a class que herde de interface tem que herdar de TinterfaceTobject
+Palavras chaves
+(Create, Owner, Herança, Free, Destructor, Tryf, AQTime, EurekaLog, MadExcept)
+
+* 27/09/2016 
+- Refatoração
+- www.sourcemaking.com
+- mudança divergente
+- momento para refatorar (Bug ou nova funionalidade)
+- Bad Smells
+- Refatoração (Identifica o bug mas não resolve)
+
+* 04/10/2016 
+- Move Method
+- S.O.L.I.D. (OCP)
+- introduce foreing method (ter antenção)
+- class heaper form TDataSet
+- introduce local method
+- teste unintario
+-- RED - Falhar
+-- GREEN - Passar
+-- REFACTOR - Melhorar
+- Como identificar se um metodo faz mais de uma coisa?
+-- basta perguntar o que o metodo faz, se tiver ["e", "ou", "mas"] faz mais de uma coisa.
+- quando criar um pacote a pasta que contiver a lib deve conter os seguintes arquivos (BPL, DCP, DCU, DCR, RES e quando formulario o DFM sendo que o dfm deve ser movido manualmente).
+
